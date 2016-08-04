@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "dustjs-linkedin": "^2.7.3",
+    "express": "^4.14.0"
+  }
+}
